@@ -1,0 +1,32 @@
+*{
+	background-color:white;
+	color:white#fff;
+h1{
+	color:orange;
+}
+h2{
+	color:red;
+}
+.greentext{
+	color:green;
+}
+div>p{
+	color:blue;
+}
+div a{
+	color: skyblue;
+}
+h1~h4{
+	color: pink;
+}
+h1+h4{
+	color:aqua;
+}
+h3{
+	color:rgb(100, 50, 75 );
+	background-color: darkblue;
+}
+body{
+	font-family: Arial,sans-serif;
+	font-size: :2em;
+}
